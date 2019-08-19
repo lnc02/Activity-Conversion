@@ -4,6 +4,7 @@
 #
 # Description:
 # Program for calculating the activity of radioactive substances
+# Version: 1.0 for Iodine 125
 # Last chances: 
 #
 
